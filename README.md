@@ -1,4 +1,43 @@
-## Hi there 👋
+<h3>✨ Welcome to my GitHub profile ✨</h3>
+
+---
+
+<p>
+  Passionate about World of Warcraft UI design and sharing what I build.
+</p>
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)]()
+[![Website](https://img.shields.io/badge/Website-1E8C3A?style=for-the-badge&logo=vercel&logoColor=white)]()
+
+---
+
+### 📌 About Me
+
+- 🧙‍♂️ UI/UX Creator for World of Warcraft
+
+### 📦 My Projects
+
+| Project | Description |
+|--------|-------------|
+| [ChatBubbleReplacements](https://github.com/Luckyone961/ChatBubbleReplacements) | Texture replacement for WoW chat bubbles (Works in Dungeons and Raids) |
+| [WoW Performance Optimization](https://github.com/tukui-org/ElvUI/wiki/performance-optimization) | Guides to improve general performance and FPS of your WoW and AddOns |
+| [WindowsChecklist](https://github.com/Luckyone961/WindowsChecklist) | Step by step checklist/walkthrough for a clean and debloated Windows installation |
+| [Website](https://luckyone.dev) | Main showcase for my current user interface and quick access to all important links |
+
+---
+
+<p>
+  <sub>~Adrenalined</sub>
+</p>
+
+
+
+
+
+
 
 <!--
 **Adrenalined/Adrenalined** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
