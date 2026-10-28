@@ -22,10 +22,10 @@
 
 | Project | Description |
 |--------|-------------|
-| [ChatBubbleReplacements](https://github.com/Luckyone961/ChatBubbleReplacements) | Texture replacement for WoW chat bubbles (Works in Dungeons and Raids) |
-| [WoW Performance Optimization](https://github.com/tukui-org/ElvUI/wiki/performance-optimization) | Guides to improve general performance and FPS of your WoW and AddOns |
-| [WindowsChecklist](https://github.com/Luckyone961/WindowsChecklist) | Step by step checklist/walkthrough for a clean and debloated Windows installation |
-| [Website](https://luckyone.dev) | Main showcase for my current user interface and quick access to all important links |
+| [ChatBubbleReplacements]() | Texture replacement for WoW chat bubbles (Works in Dungeons and Raids) |
+| [WoW Performance Optimization]() | Guides to improve general performance and FPS of your WoW and AddOns |
+| [WindowsChecklist]() | Step by step checklist/walkthrough for a clean and debloated Windows installation |
+| [Website]() | Main showcase for my current user interface and quick access to all important links |
 
 ---
 
