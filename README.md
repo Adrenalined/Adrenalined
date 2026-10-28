@@ -18,13 +18,13 @@
 
 - 🧙‍♂️ UI/UX Creator for World of Warcraft
 
-### 📦 My Projects
+### 📦 Projects
 
 | Project | Description |
 |--------|-------------|
 | [ChatBubbleReplacements]() | Texture replacement for WoW chat bubbles (Works in Dungeons and Raids) |
 | [WoW Performance Optimization]() | Guides to improve general performance and FPS of your WoW and AddOns |
-| [WindowsChecklist]() | Step by step checklist/walkthrough for a clean and debloated Windows installation |
+| [Windows Install](docs/winstall.md) | Step by step checklist/walkthrough for a clean and debloated Windows installation |
 | [Website]() | Main showcase for my current user interface and quick access to all important links |
 
 ---
