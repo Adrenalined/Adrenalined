@@ -1,11 +1,5 @@
 # Optimized and debloated Windows 11 fresh install
 
-- No more default app bloat
-- Less processes running in the background of your system
-- More CPU for your games and other heavy tasks
-  
-![Initial install state](https://i.imgur.com/0Qu6nOM.png)
-
 ## [Step 1] Creating and editing the autounattend xml file
 
 **Why autounattend?**
@@ -60,9 +54,8 @@ Requirements:
 
 #### [Step 2.2] Prepare core drivers
 1. Prepare all necessary drivers (Second USB drive or external backup)
-2. Download them only from your motherboard vendor's website
+2. Motherboard: Audio, Chipset, and LAN - rest is bloat
 3. Unzip and install all of them - then reboot your PC
-4. Audio - LAN - Chipset is recommended - rest is bloat
 
 ## [Step 3] Installing Windows with the prepared USB
 
@@ -127,8 +120,7 @@ Requirements:
 
 ## [Step 6] Extra tools & Recommendations
 
-- Here are a few apps and tools that I use, though they’re not recommended for everyone
-- Make sure you understand their purpose and can make use of them
+- Extra apps and tools
 
 #### [Step 6.1] Executables (Portable - No Installation)
 1. **[O&O ShutUp10++](https://www.oo-software.com/en/shutup10)** – Privacy tool to disable spying/telemetry
@@ -139,6 +131,4 @@ Requirements:
 
 #### [Step 6.2] More apps (App installers)
 1. **[Nilesoft Shell](https://nilesoft.org/)** – Personalize and skin the right-click context menu
-2. **[Vencord](https://vencord.dev/)** – Modifies Discord with plugins/themes (Technically against ToS)
-3. **[Brave Browser](https://brave.com/download/)** – The best browser and adblocking engine (Based on Chrome)
-4. **[PowerToys](https://github.com/microsoft/PowerToys)** - Set of utilities for power users
+2. **[PowerToys](https://github.com/microsoft/PowerToys)** - Set of utilities for power users
