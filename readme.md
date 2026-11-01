@@ -1,4 +1,4 @@
-<h3>✨ Welcome to my GitHub profile ✨</h3>
+<h3>✨ Welcome ✨</h3>
 
 ---
 
@@ -14,17 +14,12 @@
 
 ---
 
-### 📌 About Me
-
-- 🧙‍♂️ Me 
-
 ### 📦 Projects
 
 | Project | Description |
 |--------|-------------|
 | [ChatBubbleReplacements]() | Texture replacement for WoW chat bubbles (Works in Dungeons and Raids) |
 | [WoW Performance Optimization]() | Guides to improve general performance and FPS of your WoW and AddOns |
-| [Website]() | Main showcase for my current user interface and quick access to all important links |
 | [Windows Install](docs/winstall.md) | Step by step checklist/walkthrough for a clean and debloated Windows installation |
 
 ---
