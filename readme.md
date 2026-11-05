@@ -16,9 +16,6 @@
 
 ### 📦 Projects
 
-| Project | Description |
-|--------|-------------|
-
 ---
 
 <p>
